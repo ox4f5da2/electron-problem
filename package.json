@@ -1,0 +1,20 @@
+{
+  "name": "piggy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "karl fang",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^25.5.0",
+    "electron-reloader": "^1.2.3",
+    "live2dcubismcore": "^1.0.2",
+    "pixi-live2d-display": "^0.4.0",
+    "pixi.js": "^6.5.2"
+  }
+}
